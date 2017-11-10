@@ -1,4 +1,4 @@
-# Baffet-Everyday
+# Buffet-Everyday
 For meal system at Kang Chiao International School in Taipei, Taiwan, only.
 
 to install, open the js file, select everything and drang it to your bookmark bar.
